@@ -59,6 +59,15 @@ bro.stok berkomitmen melindungi privasi Anda. Dokumen ini menjelaskan bagaimana 
 - Berbagi/penyimpanan file (ekspor) – proses lokal pada perangkat
 - Secure Storage – untuk menyimpan informasi sensitif secara aman (lokal)
 
+## Kredensial Testing
+Untuk keperluan review Google Play, aplikasi menyediakan akun demo:
+Email: developer@brostok.com
+Password: developer123
+- Tanpa iklan (auto-unlock)
+- Unlimited warehouse
+- Semua fitur premium aktif
+
+Akun ini dapat digunakan untuk mengakses semua fitur aplikasi tanpa batasan.
 ## Privasi Anak
 
 Aplikasi tidak ditujukan untuk anak di bawah 13 tahun. Kami tidak secara sengaja mengumpulkan data pribadi anak-anak.
@@ -73,3 +82,4 @@ Jika ada pertanyaan atau masukan terkait privasi:
 ---
 
 Catatan: Aplikasi ini bekerja secara lokal (offline). Tidak ada data yang dikirim ke server eksternal.
+
