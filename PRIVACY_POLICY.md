@@ -1,6 +1,6 @@
 # Kebijakan Privasi bro.stok
 
-Terakhir diperbarui: [Tanggal]
+Terakhir diperbarui: 25 Desember 2025
 
 ## Pendahuluan
 
@@ -43,19 +43,25 @@ bro.stok berkomitmen melindungi privasi Anda. Dokumen ini menjelaskan bagaimana 
 - Setelah dihapus, data tidak disimpan kembali oleh aplikasi
 
 ## Layanan Pihak Ketiga
+
+### Google Mobile Ads (AdMob)
+- Aplikasi menampilkan iklan banner yang disuplai secara dinamis oleh Google AdMob.
+- Google dapat mengumpulkan informasi terkait iklan (mis. Advertising ID / AAID, data perangkat, lokasi perkiraan berdasarkan IP, dan interaksi dengan iklan) untuk tujuan penayangan iklan dan personalisasi sesuai kebijakan Google.
+- Untuk detail bagaimana Google mengelola data iklan, lihat https://policies.google.com/privacy
+
+### In-App Purchase (Google Play Billing)
+- Aplikasi menyediakan pembelian dalam aplikasi (mis. Remove Ads, Warehouse Addon). Semua transaksi diproses melalui Google Play Billing.
+- Kami tidak menyimpan atau mengelola data kartu pembayaran; detail transaksi dikelola oleh Google Play.
+- Aplikasi dapat mengambil metadata produk (ketersediaan, harga) dari layanan Google Play saat runtime.
+
+### Layanan Lokal Lainnya
 - Image Picker (foto produk) – tidak mengirim data ke server
 - Berbagi/penyimpanan file (ekspor) – proses lokal pada perangkat
 - Secure Storage – untuk menyimpan informasi sensitif secara aman (lokal)
 
 ## Privasi Anak
+
 Aplikasi tidak ditujukan untuk anak di bawah 13 tahun. Kami tidak secara sengaja mengumpulkan data pribadi anak-anak.
-
-## Kredensial Testing
-Untuk keperluan review Google Play, aplikasi menyediakan akun demo:
-- Email: demo@brosto.com
-- Password: demo123456
-
-Akun ini dapat digunakan untuk mengakses semua fitur aplikasi tanpa batasan.
 
 ## Perubahan Kebijakan
 Kebijakan ini dapat diperbarui sewaktu-waktu. Perubahan akan ditampilkan di dalam aplikasi.
@@ -67,4 +73,3 @@ Jika ada pertanyaan atau masukan terkait privasi:
 ---
 
 Catatan: Aplikasi ini bekerja secara lokal (offline). Tidak ada data yang dikirim ke server eksternal.
-
