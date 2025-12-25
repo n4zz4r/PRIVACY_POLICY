@@ -50,6 +50,13 @@ bro.stok berkomitmen melindungi privasi Anda. Dokumen ini menjelaskan bagaimana 
 ## Privasi Anak
 Aplikasi tidak ditujukan untuk anak di bawah 13 tahun. Kami tidak secara sengaja mengumpulkan data pribadi anak-anak.
 
+## Kredensial Testing
+Untuk keperluan review Google Play, aplikasi menyediakan akun demo:
+- Email: demo@brosto.com
+- Password: demo123456
+
+Akun ini dapat digunakan untuk mengakses semua fitur aplikasi tanpa batasan.
+
 ## Perubahan Kebijakan
 Kebijakan ini dapat diperbarui sewaktu-waktu. Perubahan akan ditampilkan di dalam aplikasi.
 
@@ -60,3 +67,4 @@ Jika ada pertanyaan atau masukan terkait privasi:
 ---
 
 Catatan: Aplikasi ini bekerja secara lokal (offline). Tidak ada data yang dikirim ke server eksternal.
+
